@@ -1,0 +1,2 @@
+# GroopDMLeaveScript
+discordのグループDMを抜けるためのスクリプト。コンソールで使います
